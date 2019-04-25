@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/obj/Debug/netcoreapp2.2/NumToWord.csprojAssemblyReference.cache
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/obj/Debug/netcoreapp2.2/NumToWord.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/obj/Debug/netcoreapp2.2/NumToWord.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/obj/Debug/netcoreapp2.2/NumToWord.AssemblyInfo.cs
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/bin/Debug/netcoreapp2.2/NumToWord.deps.json
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/bin/Debug/netcoreapp2.2/NumToWord.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/bin/Debug/netcoreapp2.2/NumToWord.pdb
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/obj/Debug/netcoreapp2.2/NumToWord.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord/obj/Debug/netcoreapp2.2/NumToWord.pdb

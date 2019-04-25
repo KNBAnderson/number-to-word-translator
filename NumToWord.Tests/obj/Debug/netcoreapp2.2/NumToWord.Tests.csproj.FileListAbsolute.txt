@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.Tests.deps.json
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.Tests.runtimeconfig.json
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.Tests.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.Tests.pdb
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/bin/Debug/netcoreapp2.2/NumToWord.pdb
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.dll
+/Users/Guest/Desktop/NumberToWord.Solution/NumToWord.Tests/obj/Debug/netcoreapp2.2/NumToWord.Tests.pdb
