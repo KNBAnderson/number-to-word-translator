@@ -1,6 +1,6 @@
-# _C# Scrabble_
+# _C# Number To Word Converter_
 
-#### _This program takes in a word input and returns the score for that word in Scrabble, 04/25/2019_
+#### _This program takes in a number input and returns the word equivalent of that number, 04/25/2019_
 
 #### By _**Marc Davies and Katlin Anderson**_
 
@@ -8,16 +8,14 @@
 
 _This program:_
 
-* _Takes in a word input_
-* _Splits the word into individual characters_
-* _Loops through a series of [letterscore, letter] arrays to assign a value to each character_
-* _Returns the sum of these values to assign a Scrabble score to the word_
+* _Takes in a number input_
+* _Returns a string, the word equivalent of the number_
 
 ## Setup/Installation Requirements
 
 * _Clone from GitHub_
-* _In your terminal, navigate to the Scrabble.Solution/Models directory_
-* _$mono Program.exe_
+* _In your terminal, navigate to the NumberToWord.Solution/Models directory_
+* _$mono Program.exe (No .exe at the moment)_
 
 ## Specs
 
@@ -30,7 +28,10 @@ _This program:_
 
 ## Known Bugs
 
-_None as of last update_
+_As of 04/25/2019 update_
+
+* _Program will fail for numbers 11, 12, 13, 14, 15, 16, 17, 18, 19, 20_
+* _Program only takes a number input up to 3 digits_
 
 ## Support and contact details
 
