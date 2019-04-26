@@ -10,12 +10,23 @@ namespace NumToWord.Tests
   {
 
     [TestMethod]
-    public void Number_GetWordOne_string()
+    public void Number_ReverseNumber_string()
     {
       // Arrange
       Number newNumber = new Number();
       // Act
-      string result = newNumber.NumberToWord(9);
+      string result = newNumber.ReverseNumber(642);
+      // Assert
+      Assert.AreEqual("246", result);
+    }
+
+    [TestMethod]
+    public void Number_GetWord9_string()
+    {
+      // Arrange
+      Number newNumber = new Number();
+      // Act
+      string result = newNumber.ConvertTripleDigit(9);
       // Assert
       Assert.AreEqual("nine", result);
     }
@@ -26,7 +37,7 @@ namespace NumToWord.Tests
       // Arrange
       Number newNumber = new Number();
       // Act
-      string result = newNumber.NumberToWord(22);
+      string result = newNumber.ConvertTripleDigit(22);
       // Assert
       Assert.AreEqual("twenty two", result);
     }
@@ -37,7 +48,7 @@ namespace NumToWord.Tests
       // Arrange
       Number newNumber = new Number();
       // Act
-      string result = newNumber.NumberToWord(222);
+      string result = newNumber.ConvertTripleDigit(222);
       // Assert
       Assert.AreEqual("two hundred twenty two", result);
     }
@@ -48,7 +59,7 @@ namespace NumToWord.Tests
       // Arrange
       Number newNumber = new Number();
       // Act
-      string result = newNumber.NumberToWord(11);
+      string result = newNumber.ConvertTripleDigit(11);
       // Assert
       Assert.AreEqual("eleven", result);
     }
@@ -59,7 +70,7 @@ namespace NumToWord.Tests
       // Arrange
       Number newNumber = new Number();
       // Act
-      string result = newNumber.NumberToWord(20);
+      string result = newNumber.ConvertTripleDigit(20);
       // Assert
       Assert.AreEqual("twenty", result);
     }
@@ -70,7 +81,7 @@ namespace NumToWord.Tests
       // Arrange
       Number newNumber = new Number();
       // Act
-      string result = newNumber.NumberToWord(830);
+      string result = newNumber.ConvertTripleDigit(830);
       // Assert
       Assert.AreEqual("eight hundred thirty", result);
     }
